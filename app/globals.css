@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --foreground-rgb: #0a0b0e;
+  --word-landing: #101216;
+  --gradient-one: #3B9CF6;
+  --gradient-two: #F63BB6;
+}
+
 /* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
