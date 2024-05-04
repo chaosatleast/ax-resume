@@ -4,9 +4,15 @@
 
 :root {
   --foreground-rgb: #0a0b0e;
-  --word-landing: #101216;
-  --gradient-one: #3B9CF6;
-  --gradient-two: #F63BB6;
+  --dark-puprle: #1c1678;
+  --light-purple: #8576ff;
+  --sky-blue: #7bc9ff;
+  --tiffany-green: #a3ffd6;
+  --summer-red: #ff8080;
+  --summer-orange: #ffcf96;
+  --summer-yellow: #f6fdc3;
+  --summer-green: #cdfad5;
+  --gray: #a2a5a5;
 }
 
 /* :root {
